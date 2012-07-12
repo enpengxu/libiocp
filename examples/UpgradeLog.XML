@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="iocp">
+</Property><Property Name="Solution File" Value="C:\working\iocp\examples\iocp.sln">
+</Property><Property Name="Date" Value="Wednesday, July 11, 2012">
+</Property><Property Name="Time" Value="20:36 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="iocp.sln" Description="File successfully backed up as C:\working\iocp\examples\iocp.sln.old">
+</Event><Event ErrorLevel="0" Project="server" Source="server\server.vcproj" Description="Converting project file 'C:\working\iocp\examples\server\server.vcproj'.">
+</Event><Event ErrorLevel="1" Project="server" Source="server\server.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="server" Source="server\server.vcproj" Description="MSB8012: $(TargetName) ('server') does not match the Linker's OutputFile property value 'C:\working\iocp\examples\bin\server_d.exe' ('server_d') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="server" Source="server\server.vcproj" Description="MSB8012: $(TargetPath) ('C:\working\iocp\examples\bin\server.exe') does not match the Linker's OutputFile property value 'C:\working\iocp\examples\bin\server_d.exe' ('C:\working\iocp\examples\bin\server_d.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="server" Source="server\server.vcproj" Description="Done converting to new project file 'C:\working\iocp\examples\server\server.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="server" Source="server\server.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.vcproj" Description="Converting project file 'C:\working\iocp\examples\client\client.vcproj'.">
+</Event><Event ErrorLevel="1" Project="client" Source="client\client.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="client" Source="client\client.vcproj" Description="MSB8012: $(TargetName) ('client') does not match the Linker's OutputFile property value 'C:\working\iocp\examples\bin\client_d.exe' ('client_d') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="client" Source="client\client.vcproj" Description="MSB8012: $(TargetPath) ('C:\working\iocp\examples\bin\client.exe') does not match the Linker's OutputFile property value 'C:\working\iocp\examples\bin\client_d.exe' ('C:\working\iocp\examples\bin\client_d.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="client" Source="client\client.vcproj" Description="Done converting to new project file 'C:\working\iocp\examples\client\client.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="client" Source="client\client.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="iocp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="iocp.sln" Description="Converted">
+</Event></UpgradeLog>
